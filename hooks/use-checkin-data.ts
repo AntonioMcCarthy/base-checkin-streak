@@ -6,6 +6,7 @@ import { useAccount, usePublicClient, useReadContracts, useWaitForTransactionRec
 import { useToast } from "@/components/toast-provider";
 import { checkInContractAddress, baseCheckInAbi } from "@/lib/contracts";
 import { buildHistoryEntries, buildMockHistory, deriveSummary } from "@/lib/history";
+import { attributionDataSuffix } from "@/lib/wagmi";
 import { trackTransaction } from "@/utils/track";
 
 export function useCheckInData() {
@@ -97,7 +98,8 @@ export function useCheckInData() {
       await writeContractAsync({
         address: checkInContractAddress,
         abi: baseCheckInAbi,
-        functionName: "checkIn"
+        functionName: "checkIn",
+        dataSuffix: attributionDataSuffix
       });
       pushToast("交易已发送，等待链上确认。");
     } catch {
