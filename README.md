@@ -55,3 +55,11 @@ For example, if the project uses Node.js and includes a `package.json`, install 
 ```bash
 npm install
 ```
+
+or:
+
+```bash
+pnpm install
+```
+
+or:
