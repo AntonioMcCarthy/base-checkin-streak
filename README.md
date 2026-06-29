@@ -108,3 +108,9 @@ As the project evolves, consider documenting:
 - How data is stored or retrieved.
 - How to run the project locally.
 - How to run tests.
+- How to deploy or release the project.
+- Any configuration required for different environments.
+
+## Contributing
+
+Contributions should be made through clear, reviewable changes.
