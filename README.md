@@ -89,3 +89,10 @@ npm test
 ```
 
 Use the commands defined by the project files rather than assuming a fixed workflow.
+
+## Development Notes
+
+- Keep changes focused and easy to review.
+- Update this README when setup or usage steps become clearer.
+- Add documentation for required environment variables if they are introduced.
+- Include examples when adding new features.
