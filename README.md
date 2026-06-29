@@ -63,3 +63,9 @@ pnpm install
 ```
 
 or:
+
+```bash
+yarn install
+```
+
+## Usage
