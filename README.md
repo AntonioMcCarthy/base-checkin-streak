@@ -102,3 +102,9 @@ Use the commands defined by the project files rather than assuming a fixed workf
 ## Suggested Project Documentation
 
 As the project evolves, consider documenting:
+
+- The purpose of the check-in flow.
+- How streaks are calculated.
+- How data is stored or retrieved.
+- How to run the project locally.
+- How to run tests.
