@@ -114,3 +114,11 @@ As the project evolves, consider documenting:
 ## Contributing
 
 Contributions should be made through clear, reviewable changes.
+
+Before submitting changes:
+
+1. Pull the latest version of the repository.
+2. Create a separate branch for your work.
+3. Make focused updates.
+4. Run the available checks or tests.
+5. Update documentation when behavior changes.
