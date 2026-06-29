@@ -30,3 +30,10 @@ Then move into the project directory:
 
 ```bash
 cd base-checkin-streak
+```
+
+## Setup
+
+After cloning the repository, review the project files to determine the technology stack and available commands.
+
+Common files to check include:
