@@ -17,3 +17,10 @@ Use this README as a starting point for understanding, setting up, and working w
 - Can be cloned locally for development, review, and extension.
 - Suitable for incremental improvements as the project grows.
 - Includes a clear project location for reference and collaboration.
+
+## Repository
+
+Clone the repository with:
+
+```bash
+git clone https://github.com/AntonioMcCarthy/base-checkin-streak.git
