@@ -96,3 +96,9 @@ Use the commands defined by the project files rather than assuming a fixed workf
 - Update this README when setup or usage steps become clearer.
 - Add documentation for required environment variables if they are introduced.
 - Include examples when adding new features.
+- Prefer clear naming for files, functions, and configuration.
+- Keep generated files out of version control when appropriate.
+
+## Suggested Project Documentation
+
+As the project evolves, consider documenting:
