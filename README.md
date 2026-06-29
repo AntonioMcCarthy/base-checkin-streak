@@ -44,3 +44,8 @@ Common files to check include:
 - `package-lock.json`
 - `requirements.txt`
 - `pyproject.toml`
+- `Cargo.toml`
+- `README.md`
+- Environment example files such as `.env.example`
+
+If a dependency file is present, install the dependencies using the appropriate package manager for the project.
