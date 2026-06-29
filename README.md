@@ -75,3 +75,10 @@ Start by checking the available scripts or entry points in the repository.
 For a Node.js project, useful commands are often listed in `package.json` under the `scripts` section.
 
 Common development commands may include:
+
+```bash
+npm run dev
+```
+
+```bash
+npm run build
