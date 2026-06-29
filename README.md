@@ -122,3 +122,9 @@ Before submitting changes:
 3. Make focused updates.
 4. Run the available checks or tests.
 5. Update documentation when behavior changes.
+
+## License
+
+No license information is provided in the original README.
+
+If this project is intended for public use or collaboration, add a license file to clarify how the code may be used.
