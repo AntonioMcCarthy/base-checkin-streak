@@ -11,3 +11,9 @@ https://github.com/AntonioMcCarthy/base-checkin-streak.git
 Use this README as a starting point for understanding, setting up, and working with the project.
 
 ## Features
+
+- Provides a dedicated codebase for a check-in streak experience.
+- Keeps the project organized under the `base-checkin-streak` name.
+- Can be cloned locally for development, review, and extension.
+- Suitable for incremental improvements as the project grows.
+- Includes a clear project location for reference and collaboration.
