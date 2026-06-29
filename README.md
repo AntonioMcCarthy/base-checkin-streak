@@ -37,3 +37,10 @@ cd base-checkin-streak
 After cloning the repository, review the project files to determine the technology stack and available commands.
 
 Common files to check include:
+
+- `package.json`
+- `pnpm-lock.yaml`
+- `yarn.lock`
+- `package-lock.json`
+- `requirements.txt`
+- `pyproject.toml`
