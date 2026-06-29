@@ -49,3 +49,9 @@ Common files to check include:
 - Environment example files such as `.env.example`
 
 If a dependency file is present, install the dependencies using the appropriate package manager for the project.
+
+For example, if the project uses Node.js and includes a `package.json`, install dependencies with the package manager used by the repository:
+
+```bash
+npm install
+```
