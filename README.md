@@ -24,3 +24,9 @@ Clone the repository with:
 
 ```bash
 git clone https://github.com/AntonioMcCarthy/base-checkin-streak.git
+```
+
+Then move into the project directory:
+
+```bash
+cd base-checkin-streak
