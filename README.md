@@ -82,3 +82,10 @@ npm run dev
 
 ```bash
 npm run build
+```
+
+```bash
+npm test
+```
+
+Use the commands defined by the project files rather than assuming a fixed workflow.
